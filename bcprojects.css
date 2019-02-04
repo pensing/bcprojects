@@ -18,9 +18,10 @@ background-position:center;
 }
 
 .visit-button{
-position:absolute;
+/*position:absolute;
 bottom:20px;
-right:17px;
+right:17px;*/
+  margin-top: 20px;
  }
 
 .week-heading {
